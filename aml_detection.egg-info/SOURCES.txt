@@ -1,0 +1,7 @@
+setup.py
+aml_detection.egg-info/PKG-INFO
+aml_detection.egg-info/SOURCES.txt
+aml_detection.egg-info/dependency_links.txt
+aml_detection.egg-info/entry_points.txt
+aml_detection.egg-info/requires.txt
+aml_detection.egg-info/top_level.txt

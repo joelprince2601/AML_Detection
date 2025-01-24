@@ -1,0 +1,18 @@
+aml_detection/
+├── __init__.py
+├── app.py
+├── config/
+│   └── aml_config.py
+├── processors/
+│   ├── __init__.py
+│   ├── excel_processor.py
+│   ├── feature_processor.py
+│   └── network_processor.py
+├── models/
+│   ├── __init__.py
+│   ├── anomaly_detector.py
+│   └── supervised_model.py
+├── utils/
+│   ├── __init__.py
+│   └── logging_utils.py
+└── main.py 

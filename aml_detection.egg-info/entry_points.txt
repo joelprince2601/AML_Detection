@@ -1,0 +1,2 @@
+[console_scripts]
+aml-detect = aml_detection.main:main

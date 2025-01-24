@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: aml_detection
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: networkx
+Requires-Dist: openpyxl
