@@ -3,7 +3,7 @@
 This project is designed to detect Acute Myeloid Leukemia (AML) using machine learning techniques. It processes input data, applies predictive models, and outputs detection results.
 
 # AML Hosted in Streamlit
-use the below link to access the application and try it out yourself with the sample dataset which is provided in the website.
+Use the below link to access the application and try it out yourself with the sample dataset which is provided in the website.
 https://amldetectionjp.streamlit.app/
 
 ## Table of Contents
